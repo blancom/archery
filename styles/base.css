@@ -69,10 +69,6 @@ html {
     flex-direction: row;
     align-items: flex-start;
 }
-.container h1 {
-  background-color: #008000;
-
-}
 
 /* split the min-width between the article text and the aside */
 
